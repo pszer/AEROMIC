@@ -1,7 +1,5 @@
 AEROMIC
 
-jungle is massive
-Made by QUAKEM
 
 HOW TO PLAY:
 
